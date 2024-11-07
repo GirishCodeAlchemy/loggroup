@@ -1,18 +1,18 @@
-# Py-LogGroup
+# pyloggroup
 
-`py-loggroup` is a Python package that provides decorators for creating log groups for a functions. This package can be used to enhance logging in your Python projects.
+`pyloggroup` is a Python package that provides decorators for creating log groups for a functions. This package can be used to enhance logging in your Python projects.
 
 ## Installation
 
-You can install `py-loggroup` using pip:
+You can install `pyloggroup` using pip:
 
 ```sh
-pip install py-loggroup
+pip install pyloggroup
 ```
 
 ## Usage
 
-Here is how you can use the decorators provided by `py-loggroup` in your Python code:
+Here is how you can use the decorators provided by `pyloggroup` in your Python code:
 
 1. Log groups
 
