@@ -18,7 +18,7 @@ Here is how you can use the decorators provided by `py-loggroup` in your Python 
 
 ```python
 
-from py_loggroup import log_group
+from pyloggroup import log_group
 import logging
 
 # Ensure the logger level is set to INFO
@@ -48,7 +48,8 @@ def innermost_function():
 main_function()
 ```
 
-![image](https://github.com/user-attachments/assets/15495373-711d-4b72-9fbb-32acb80c110b)
+![image](https://github.com/user-attachments/assets/ddebb993-66ba-4bad-89ab-498a8cee08f5)
+
 
 ### Decorators
 
