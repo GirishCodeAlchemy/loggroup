@@ -1,4 +1,4 @@
-# pyloggroup
+# PyLogGroup
 
 `pyloggroup` is a Python package that provides decorators for creating log groups for a functions. This package can be used to enhance logging in your Python projects.
 
