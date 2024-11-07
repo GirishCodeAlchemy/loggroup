@@ -1,1 +1,1 @@
-from .log_decorators import log_group
+from .pyloggroup import log_group
