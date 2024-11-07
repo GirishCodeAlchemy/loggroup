@@ -1,5 +1,9 @@
 # PyLogGroup
 
+[![PyPI version](https://img.shields.io/pypi/v/pyloggroup)](https://pypi.org/project/pyloggroup/)
+![License](https://img.shields.io/pypi/l/pyloggroup)
+![Python versions](https://img.shields.io/pypi/pyversions/pyloggroup)
+
 `pyloggroup` is a lightweight Python package designed to improve logging readability by creating structured log groups for functions. This package is particularly useful for projects with nested or complex functions, where understanding the flow of function calls is essential.
 
 With `pyloggroup`, you can use decorators to group log entries under specific names, allowing for a tree-like view of log output. This helps make logs more organized and easier to analyze, especially in debugging and monitoring scenarios.
